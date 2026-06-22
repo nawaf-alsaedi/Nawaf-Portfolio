@@ -8,7 +8,6 @@ export function Footer() {
     [Mail, t('contact.email'), '', 'mailto:nawaf.alsaedi@outlook.com'],
     [Phone, t('contact.phone'), '+966 50 740 0657', 'tel:+966507400657'],
     [MessageCircle, t('contact.whatsapp'), '', 'https://wa.me/966507400657'],
-    [MapPin, t('contact.location'), '', '#'],
     [Linkedin, t('contact.linkedin'), '', 'https://www.linkedin.com/in/nawaf-techsupport'],
   ];
   return (
