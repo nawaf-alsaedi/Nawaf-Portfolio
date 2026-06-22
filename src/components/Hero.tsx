@@ -40,7 +40,7 @@ export function Hero() {
             <p className="mt-4 text-text-muted max-w-[520px] leading-relaxed">{t('hero.sub')}</p>
             <div className="mt-9 flex flex-wrap gap-4">
               <a href="#contact" className="inline-flex items-center gap-3 px-7 py-4 rounded-xl bg-gradient-to-r from-gold to-amber-400 text-[#07111F] font-black uppercase tracking-[0.14em] text-xs gold-glow hover:scale-105 transition-transform"><Mail className="w-5 h-5" />{t('hero.contactBtn')}</a>
-              <a href="/Nawaf_Alsaedi_Professional_CV.docx" download className="inline-flex items-center gap-3 px-7 py-4 rounded-xl border border-gold/50 bg-black/5 text-text-main font-black uppercase tracking-[0.14em] text-xs hover:bg-gold/10 transition-all"><Download className="w-5 h-5 text-gold" />{t('hero.cvBtn')}</a>
+              <a href="./Nawaf_Alsaedi_Professional_CV.docx" download className="inline-flex items-center gap-3 px-7 py-4 rounded-xl border border-gold/50 bg-black/5 text-text-main font-black uppercase tracking-[0.14em] text-xs hover:bg-gold/10 transition-all"><Download className="w-5 h-5 text-gold" />{t('hero.cvBtn')}</a>
             </div>
           </div>
 
